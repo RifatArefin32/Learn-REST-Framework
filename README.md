@@ -5,5 +5,5 @@ Install Django to the environment: `pip install django`
 Check the django successfully installed: `django-admin --version`
 Create a project directory: `django-admin startproject djangorest`
 Enter into project and run the server: `cd djangorest` then `python3 manage.py runserver`
-
+Stop the virtual environment: `deactivate`
  
